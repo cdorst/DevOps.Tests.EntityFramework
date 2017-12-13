@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOps.Tests.EntityFramework", "DevOps.Tests.EntityFramework\DevOps.Tests.EntityFramework.csproj", "{14A615D2-6043-41A6-91D3-CC469365A4B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A615D2-6043-41A6-91D3-CC469365A4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A615D2-6043-41A6-91D3-CC469365A4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A615D2-6043-41A6-91D3-CC469365A4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A615D2-6043-41A6-91D3-CC469365A4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E20CE6C-2512-4720-A134-3DA2583F0698}
+	EndGlobalSection
+EndGlobal
